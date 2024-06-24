@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382746852403",
+    "project_id": "meueventoapp-a268d",
+    "storage_bucket": "meueventoapp-a268d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382746852403:android:f1c4faf2b0a70d1538b746",
+        "android_client_info": {
+          "package_name": "com.example.meueventoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa23eds8tnldzRzez9ibEq9lzyowHcsig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
