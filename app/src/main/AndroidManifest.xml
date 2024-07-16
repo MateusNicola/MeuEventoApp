@@ -20,6 +20,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.EventActivity" />
+        <activity android:name=".activities.GuestActivity" />
     </application>
 
 </manifest>

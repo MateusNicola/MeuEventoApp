@@ -14,8 +14,8 @@ import com.example.meueventoapp.entity.Event;
 import java.util.List;
 
 public class EventAdapter extends RecyclerView.Adapter<EventAdapter.EventViewHolder> {
-    private List<Event> eventList;
-    private OnEventClickListener onEventClickListener;
+    private final List<Event> eventList;
+    private final OnEventClickListener onEventClickListener;
 
     public EventAdapter(List<Event> eventList, OnEventClickListener onEventClickListener) {
         this.eventList = eventList;
